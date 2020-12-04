@@ -3,6 +3,7 @@ CPSC 350-02
 Student ID: 002341304
 Programming Assignment 5: Data Base
 Worked on this with fellow classmate Andriana Agrusa
+used extra day due to github issues!
 
 Errors: no know errors
 
